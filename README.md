@@ -5,7 +5,7 @@ A project set up with node, grunt, bower & karma. Grunt is configured to launch 
 Obtain a copy of this repo then reinit it's git:  
 
     cd generic-seed
-    rm -rf .git
+    rm -rf .git README.md
     git init
     git add .
     git commit -m "init" 
